@@ -110,11 +110,12 @@ ul{
 }
 
 .imagen_perfil{
-    width: 220px;
-    height: 300px;
+    width: 220px    ;
+    height: 228px;
     float:right;
-    margin:20px;
-    border-radius:30px
+    margin:80px 20px 0px 20px;
+    object-fit: contain;
+    border-radius: 20px;
 }
 
 .habilidades{
