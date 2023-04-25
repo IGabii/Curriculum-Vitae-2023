@@ -1,14 +1,13 @@
 /*-------------------------Header------------------------------------------------------------------*/
 body{
     margin:0;
-    background-color:#120907;
+    background-color:#090700;
     
 }
 
 .header-conteiner{
-    background: #0575E6;
-    background: -webkit-linear-gradient(to right, #021B79, #0575E6);
-    background: linear-gradient(to right, #021B79, #0575E6);    
+    background-image: url(https://images.pexels.com/photos/943096/pexels-photo-943096.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: 100%;
     color:#fff;
     font-weight: 900;
     font-size: 15px;
@@ -91,7 +90,7 @@ body{
     color:#fff;
     text-shadow: 1px 1px 7px #fffbf3;
     width: 570px;
-    height: 340px;
+    height: 100%;
     font-size:20px;
     font-family: calibri;
 
@@ -230,7 +229,7 @@ footer{
 }
 
 .imagen_javascrip{
-    width: 86%;
+    width: 80%;
     border-radius: 20px;
 }
 
