@@ -244,6 +244,10 @@ footer{
     border-radius:10px;
 }
 
+.imagen_ingles{
+    width: 210px;
+}
+
 /*--------------------Experiencia Laboral--------------------------------------------------------------------------------------*/
 
 .titulo_experiencia_laboral{
@@ -360,4 +364,3 @@ footer{
         width: 50%;
         border-radius: 20px;
     }
-}
