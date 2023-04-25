@@ -138,9 +138,7 @@ ul{
 footer{
     width: 100%;
     height: 70px;
-    background: #0575E6;
-    background: -webkit-linear-gradient(to right, #021B79, #0575E6);
-    background: linear-gradient(to right, #021B79, #0575E6);
+    background:#145f8c;
     color:#ffffff;
     font-size:20px;
     font-family:calibri;
@@ -275,9 +273,7 @@ footer{
 .footer_experiencia_laboral{
     width: 100%;
     height: 70px;
-    background: #0575E6;
-    background: -webkit-linear-gradient(to right, #021B79, #0575E6);
-    background: linear-gradient(to right, #021B79, #0575E6);
+    background:#145f8c;
     color:#ffffff;
     font-size:20px;
     font-family:calibri;
